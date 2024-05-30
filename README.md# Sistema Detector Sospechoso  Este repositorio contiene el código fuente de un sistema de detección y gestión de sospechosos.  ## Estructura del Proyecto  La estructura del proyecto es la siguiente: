@@ -1,0 +1,14 @@
+# Sistema Detector Sospechoso
+
+Este repositorio contiene el código fuente de un sistema de detección y gestión de sospechosos.
+
+## Estructura del Proyecto
+
+La estructura del proyecto es la siguiente:
+
+### Archivos Principales
+
+- **Camara.java**: Clase que gestiona la captura de imágenes o video.
+- **SistemaDetectorSospechoso.java**: Clase principal que contiene la lógica para detectar sospechosos.
+- **SistemaGestionSospechosos.java**: Clase que gestiona la base de datos o el almacenamiento de sospechosos detectados.
+- **Sospechosos.java**: Clase que representa a un sospechoso.
